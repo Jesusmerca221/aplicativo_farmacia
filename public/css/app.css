@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+.bg-dark-blue {
+    background-color: #4875ca; /* Código de color para el azul oscuro */
+    /* Puedes ajustar el código de color a tu preferencia */
+    color: rgb(255, 255, 255); /* Cambia el color del texto si es necesario para la legibilidad */
+}
+
+.fuente {
+    color:rgb(227, 230, 233);
+    font-size: 50 px;
+}
+
